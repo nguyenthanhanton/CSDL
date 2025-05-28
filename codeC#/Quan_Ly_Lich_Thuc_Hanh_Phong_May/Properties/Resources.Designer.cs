@@ -61,42 +61,12 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static System.Drawing.Bitmap _123123 {
+        internal static byte[] anhLogIn {
             get {
-                object obj = ResourceManager.GetObject("123123", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap anh_dong_2 {
-            get {
-                object obj = ResourceManager.GetObject("anh dong 2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap anhdongdangnhap {
-            get {
-                object obj = ResourceManager.GetObject("anhdongdangnhap", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap anhlogin {
-            get {
-                object obj = ResourceManager.GetObject("anhlogin", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                object obj = ResourceManager.GetObject("anhLogIn", resourceCulture);
+                return ((byte[])(obj));
             }
         }
     }

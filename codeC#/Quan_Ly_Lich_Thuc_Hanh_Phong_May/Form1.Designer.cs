@@ -1,4 +1,6 @@
-﻿namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
+﻿using System.IO;
+using System.Drawing;
+namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
 {
     partial class Form1
     {
@@ -141,7 +143,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pictureBox1.Image = global::Quan_Ly_Lich_Thuc_Hanh_Phong_May.Properties.Resources._123123;
+            //this.pictureBox1.Image = Quan_Ly_Lich_Thuc_Hanh_Phong_May.Properties.Resources.anhLogIn;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(551, 220);

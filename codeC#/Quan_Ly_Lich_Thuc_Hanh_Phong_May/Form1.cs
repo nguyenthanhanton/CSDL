@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +16,17 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
         public Form1()
         {
             InitializeComponent();
+            try
+            {
+                using (MemoryStream ms = new MemoryStream(Properties.Resources.anhLogIn))
+                {
+                    pictureBox1.Image = Image.FromStream(ms);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi load ảnh: " + ex.Message);
+            }
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
