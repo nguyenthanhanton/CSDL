@@ -143,7 +143,7 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             // pictureBox1
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Top;
-            //this.pictureBox1.Image = Quan_Ly_Lich_Thuc_Hanh_Phong_May.Properties.Resources.anhLogIn;
+            this.pictureBox1.Image = global::Quan_Ly_Lich_Thuc_Hanh_Phong_May.Properties.Resources.z6642997480070_007cfe4b2b8382d29157f2e64e4a8b7d_removebg_preview;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(551, 220);
@@ -163,6 +163,7 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

@@ -52,5 +52,10 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             }
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -86,6 +86,7 @@
   <ItemGroup>
     <None Include="Resources\anhLogIn.png" />
     <None Include="Resources\anhLog.png" />
+    <None Include="Resources\z6642997480070_007cfe4b2b8382d29157f2e64e4a8b7d-removebg-preview.png" />
     <Content Include="Resources\_123123.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

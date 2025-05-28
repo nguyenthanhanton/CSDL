@@ -1,29 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\",
+  "WorkspaceRootPath": "D:\\CSDL\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|e:\\gitlth\\codec#\\quan_ly_lich_thuc_hanh_phong_may\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|e:\\gitlth\\codec#\\quan_ly_lich_thuc_hanh_phong_may\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|D:\\CSDL\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Quan_Ly_Lich_Thuc_Hanh_Phong_May||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|e:\\gitlth\\codec#\\quan_ly_lich_thuc_hanh_phong_may\\resources\\anhlogin.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|solutionrelative:resources\\anhlogin.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|e:\\gitlth\\codec#\\quan_ly_lich_thuc_hanh_phong_may\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|d:\\csdl\\codec#\\quan_ly_lich_thuc_hanh_phong_may\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AD7760-74B9-4D7D-8856-149E25FC50CE}|Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,48 +30,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "anhLogIn.png - PNG [451x320, 32 bit, PNG]",
-              "DocumentMoniker": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Resources\\anhLogIn.png",
-              "RelativeDocumentMoniker": "Resources\\anhLogIn.png",
-              "ToolTip": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Resources\\anhLogIn.png - PNG [451x320, 32 bit, PNG]",
-              "RelativeToolTip": "Resources\\anhLogIn.png - PNG [451x320, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-05-28T01:58:02.785Z",
-              "EditorCaption": " - PNG [451x320, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Quan_Ly_Lich_Thuc_Hanh_Phong_May",
-              "DocumentMoniker": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj",
-              "RelativeDocumentMoniker": "Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj",
-              "ToolTip": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj",
-              "RelativeToolTip": "Quan_Ly_Lich_Thuc_Hanh_Phong_May.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-28T01:54:59.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAYwJAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T01:37:11.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs",
+              "DocumentMoniker": "D:\\CSDL\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs [Design]",
+              "ToolTip": "D:\\CSDL\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T02:15:03.816Z",
@@ -94,20 +42,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs",
+              "DocumentMoniker": "D:\\CSDL\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\gitLTH\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs",
+              "ToolTip": "D:\\CSDL\\codeC#\\Quan_Ly_Lich_Thuc_Hanh_Phong_May\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwBcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAIAwwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:10:35.661Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
