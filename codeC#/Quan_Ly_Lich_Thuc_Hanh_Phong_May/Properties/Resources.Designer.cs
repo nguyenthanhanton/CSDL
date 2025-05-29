@@ -73,6 +73,16 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap anhthongtin {
+            get {
+                object obj = ResourceManager.GetObject("anhthongtin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap z6642997480070_007cfe4b2b8382d29157f2e64e4a8b7d_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("z6642997480070_007cfe4b2b8382d29157f2e64e4a8b7d-removebg-preview", resourceCulture);

@@ -30,6 +30,7 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.txt_name = new System.Windows.Forms.TextBox();
             this.txt_pass = new System.Windows.Forms.TextBox();
@@ -40,6 +41,7 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             this.linkl_forget = new System.Windows.Forms.LinkLabel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -68,9 +70,9 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             this.label1.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(39, 37);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(91, 20);
+            this.label1.Size = new System.Drawing.Size(95, 20);
             this.label1.TabIndex = 2;
-            this.label1.Text = "UserName ";
+            this.label1.Text = "UserName :";
             // 
             // label2
             // 
@@ -78,9 +80,9 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             this.label2.Font = new System.Drawing.Font("Times New Roman", 10.8F);
             this.label2.Location = new System.Drawing.Point(40, 92);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 20);
+            this.label2.Size = new System.Drawing.Size(91, 20);
             this.label2.TabIndex = 3;
-            this.label2.Text = "PassWord";
+            this.label2.Text = "PassWord :";
             // 
             // btn_login
             // 
@@ -90,6 +92,7 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             this.btn_login.TabIndex = 4;
             this.btn_login.Text = "Đăng nhập";
             this.btn_login.UseVisualStyleBackColor = true;
+            this.btn_login.Click += new System.EventHandler(this.btn_login_Click);
             // 
             // btn_exit
             // 
@@ -140,6 +143,12 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
+            // imageList1
+            // 
+            this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.imageList1.ImageSize = new System.Drawing.Size(16, 16);
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -183,6 +192,7 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.ImageList imageList1;
     }
 }
 
