@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Quan_Ly_Lich_Thuc_Hanh_Phong_May.Resources;
 
 namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
 {
@@ -60,9 +61,10 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
 
         private void btn_login_Click(object sender, EventArgs e)
         {
-            home fom2 = new home();
+            //home fom2 = new home();
+            //fom2.Show();
+            GiangVien fom2 = new GiangVien();
             fom2.Show();
-
         }
     }
 }
