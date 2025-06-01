@@ -28,22 +28,22 @@ namespace Quan_Ly_Lich_Thuc_Hanh_Phong_May
 
         private void button19_Click(object sender, EventArgs e)
         {
-            tabControl1.SelectedTab = page_information;
+            tabControl1.SelectedTab = page_THONGTIN;
         }
 
         private void button23_Click(object sender, EventArgs e)
         {
-            tabControl1.SelectedTab = page_lth;
+            tabControl1.SelectedTab = page_LTH;
         }
 
         private void button26_Click(object sender, EventArgs e)
         {
-            tabControl1.SelectedTab = page_taitruc;
+            tabControl1.SelectedTab = page_TAITRUC;
         }
 
         private void button24_Click(object sender, EventArgs e)
         {
-            tabControl1.SelectedTab = page_thongke;
+            tabControl1.SelectedTab = page_THONGKE;
         }
 
         private void label22_Click(object sender, EventArgs e)
